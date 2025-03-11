@@ -16,7 +16,7 @@ public class Main {
             Sasuke.nome = "Sasuke Uchiha";
             Sasuke.idade = 14;
             Sasuke.aldeia = "Aldeia da Folha";
-
+            
         System.out.println("\n" +
                  "Nome: " + Sasuke.nome + "\n" +
                 "Idade: " + Sasuke.idade + "\n" +

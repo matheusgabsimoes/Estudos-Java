@@ -34,5 +34,7 @@ public class Main {
         nome.addHabilidade(habilidadeDoNinja);
         nome.mostrarHabilidadeComInformacoes();
 
+
+
     }
 }

@@ -1,4 +1,4 @@
-package DesafioJava10x;
+package DesafioJava10x.NivelFacil;
 
 public class Ninjas {
     public static void main(String[] args) {
