@@ -12,6 +12,8 @@ public class Main {
         Itachi.sharingan();
         Itachi.habilidadeEspecial();
 
+        System.out.println("-------------------------------------------------");
+
         Hatake Kakashi = new Hatake("Kakashi Hatake", "40", "Folha", "teste", true);
         Kakashi.printNinja();
         Kakashi.sharingan();

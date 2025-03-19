@@ -18,7 +18,7 @@ public abstract class Ninja implements HabilidadeEspecial {
 
     public void printNinja() {
         System.out.println("Nome: " + nome +
-                            " \nIdade: " + idade +
-                            " anos \nVive na aldeia da(o/e): " + aldeia);
+                " \nIdade: " + idade +
+                " anos \nVive na aldeia da(o/e): " + aldeia);
     }
 }
